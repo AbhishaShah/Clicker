@@ -20,7 +20,7 @@ function ReactCounter() {
   return (
     <div>
       <header>
-        <h2 className="title">React Counter</h2>
+        <h2 className="title">React Clicker</h2>
       </header>
       <Counter count={count} OnClickHandle={Click} />
     </div>
